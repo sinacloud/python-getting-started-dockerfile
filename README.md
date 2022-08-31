@@ -23,5 +23,3 @@ $ python main.py
 
 
 ## 相关文档
-
-- [Python应用部署指南](http://www.sinacloud.com/doc/sae/docker/python-getting-started.html)
